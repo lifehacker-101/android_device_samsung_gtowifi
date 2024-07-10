@@ -1082,14 +1082,14 @@ vendor/lib/vendor.qti.hardware.fingerprint@1.0.so
 vendor/lib64/vendor.qti.hardware.fingerprint@1.0.so
 
 # Firmware
-etc/firmware/AbovCapSense.BIN
-etc/firmware/aw87319l_rcv.bin
-etc/firmware/aw87319l_spk.bin
-etc/firmware/aw87319l_vspk.bin
-etc/firmware/aw87319r_rcv.bin
-etc/firmware/aw87319r_spk.bin
-etc/firmware/aw87319r_vspk.bin
-etc/firmware/ice40.bin
+etc/firmware/AbovCapSense.BIN:vendor/firmware/AbovCapSense.BIN
+etc/firmware/aw87319l_rcv.bin:vendor/firmware/aw87319l_rcv.bin
+etc/firmware/aw87319l_spk.bin:vendor/firmware/aw87319l_spk.bin
+etc/firmware/aw87319l_vspk.bin:vendor/firmware/aw87319l_vspk.bin
+etc/firmware/aw87319r_rcv.bin:vendor/firmware/aw87319r_rcv.bin
+etc/firmware/aw87319r_spk.bin:vendor/firmware/aw87319r_spk.bin
+etc/firmware/aw87319r_vspk.bin:vendor/firmware/aw87319r_vspk.bin
+etc/firmware/ice40.bin:vendor/firmware/ice40.bin
 vendor/firmware/a300_pfp.fw
 vendor/firmware/a300_pm4.fw
 vendor/firmware/a330_pfp.fw
