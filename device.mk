@@ -361,6 +361,7 @@ PRODUCT_PACKAGES += \
     wcnss_service  \
     wpa_supplicant \
     wpa_supplicant.conf \
+    macloader.sh \
     WifiOverlayGTO
 
 PRODUCT_COPY_FILES += \
