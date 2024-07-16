@@ -301,6 +301,7 @@ PRODUCT_PACKAGES += \
     init.time_daemon.rc \
     init.vendor.sysfw.rc \
     init_thermal-engine.rc \
+    wifi.rc \
     fstab.qcom \
     ueventd.qcom.rc
 

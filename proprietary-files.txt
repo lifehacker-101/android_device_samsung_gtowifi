@@ -1646,7 +1646,6 @@ vendor/bin/cnss-daemon
 vendor/bin/cnss_diag
 vendor/bin/hw/macloader
 vendor/bin/hw/mfgloader
-vendor/etc/init/wifi.rc
 vendor/etc/init/wifi_qcom.rc
 
 # WiFi (WiGig)
