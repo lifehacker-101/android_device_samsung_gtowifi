@@ -301,7 +301,7 @@ PRODUCT_PACKAGES += \
     init.time_daemon.rc \
     init.vendor.sysfw.rc \
     init_thermal-engine.rc \
-    wifi.rc \
+    samsung_wifi.rc \
     fstab.qcom \
     ueventd.qcom.rc
 
